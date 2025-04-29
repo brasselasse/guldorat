@@ -16,8 +16,8 @@
               --primaryColor: #cca02f;
               --backgroundColor: #F9F5EC;
               --textColor: #253b48;
-              --backdropBackgroundColor: #00000033;
-              --backdropBackgroundBlur: 0px;
+              --backdropBackgroundColor: #00000066;
+              --backdropBackgroundBlur: 10px;
               --cookieIconColor: #cca02f;
               --cookieIconBackgroundColor: #f9f5ec;
               position: fixed;
