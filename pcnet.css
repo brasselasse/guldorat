@@ -2,7 +2,10 @@
 .header-wrapper {
     background-color:none;
 }
-
+.first-page-content .banners {
+margin:0px;
+    
+}
     
 .basket {
     background-color: #fff;
