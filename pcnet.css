@@ -140,9 +140,7 @@ body{
 .prodlist-row__price .price-text {
     font-weight: 800;
 }
-.product-list__partnumber{
-    display: none;
-}
+
 .menu-bar{
     background-color: #FCF9F6!important;
     margin-top: 8px
