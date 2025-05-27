@@ -1,4 +1,8 @@
 
+.first-page-content .section .images {
+    margin: 16px auto 16px auto!important;
+ 
+}
 .header-wrapper {
     background-color:transparent;
 }
