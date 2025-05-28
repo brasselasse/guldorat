@@ -1,4 +1,9 @@
-
+.promoted-products {
+    padding: 0px!important;
+}
+.bx-wrapper {
+padding-bottom:16px;
+}
 
 .header-wrapper {
     background-color:transparent;
