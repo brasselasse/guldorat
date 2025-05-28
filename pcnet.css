@@ -1,10 +1,19 @@
 
-.first-page-content .section .images {
-    margin: 16px auto 16px auto!important;
- 
-}
+
 .header-wrapper {
     background-color:transparent;
+}
+.row.collapse h2{
+    padding-left:0.25rem;
+    padding-top:1rem;
+    padding-bottom: 0rem!important;
+}
+.first-page-content .section .images {
+    margin: 4px auto 16px auto !important;
+}
+.first-page-content .section .images li {
+    display: inline-block;
+    padding-right: 16px;
 }
     
 .basket {
